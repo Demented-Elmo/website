@@ -8,8 +8,10 @@ background-repeat: no-repeat;
 background-image: url('https://cdn.discordapp.com/attachments/872597872472907896/913513294990573598/Background.png');
 background-size: 100%;
 color:white;
-margin-top:90px}
+margin-top:80px}
 
+.intro, .introinner, .middle, .middleinner, .end, .endinner.one, .end, .for, .enhance, .endinner.three{pointer-events: none}
+.name{pointer-events: all}
 
 .intro{font-weight:900; font-family: sans-serif; font-size:43px}
 .introinner{font-weight:300; font-size:16px}
