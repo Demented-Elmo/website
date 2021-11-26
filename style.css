@@ -10,7 +10,7 @@ background-size: 100%;
 color:white;
 margin-top:80px}
 
-.intro, .introinner, .middle, .middleinner, .end, .endinner.one, .end, .for, .enhance, .endinner.three{pointer-events: none}
+.intro, .introinner, .middle, .middleinner, .end, .endinner.one, .end, .endinner.three, .for, .download{pointer-events: none}
 .name{pointer-events: all}
 
 .intro{font-weight:900; font-family: sans-serif; font-size:43px}
